@@ -1,0 +1,20 @@
+### GET fetch route from CZE to IND
+GET http://localhost:8081/api/v1/routing/CZE/IND
+Accept: application/json
+
+### GET fetch route from CZE to CHN
+GET http://localhost:8081/api/v1/routing/CZE/CHN
+Accept: application/json
+
+### GET fetch route from CZE to ITA
+GET http://localhost:8081/api/v1/routing/CZE/ITA
+Accept: application/json
+
+### GET fetch route from CZE to DEU
+GET http://localhost:8081/api/v1/routing/CZE/DEU
+Accept: application/json
+
+### GET fetch route from CZE to CZE
+GET http://localhost:8081/api/v1/routing/CZE/CZE
+Accept: application/json
+

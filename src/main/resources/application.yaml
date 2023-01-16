@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+datasource:
+  service:
+    countriesDataUrl: https://raw.githubusercontent.com/mledoze/countries/master/countries.json
