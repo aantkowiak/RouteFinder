@@ -1,7 +1,7 @@
-package com.pwc.routefinder.controller;
+package com.aantkowiak.routefinder.controller;
 
-import com.pwc.routefinder.service.route.RouteDto;
-import com.pwc.routefinder.service.route.RouteService;
+import com.aantkowiak.routefinder.service.route.RouteDto;
+import com.aantkowiak.routefinder.service.route.RouteService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

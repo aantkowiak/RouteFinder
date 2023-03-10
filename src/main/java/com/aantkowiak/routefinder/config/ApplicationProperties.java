@@ -1,4 +1,4 @@
-package com.pwc.routefinder.config;
+package com.aantkowiak.routefinder.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

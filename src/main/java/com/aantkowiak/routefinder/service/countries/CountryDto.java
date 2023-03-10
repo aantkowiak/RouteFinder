@@ -1,4 +1,4 @@
-package com.pwc.routefinder.service.countries;
+package com.aantkowiak.routefinder.service.countries;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;

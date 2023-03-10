@@ -1,6 +1,6 @@
-package com.pwc.routefinder.service.graph;
+package com.aantkowiak.routefinder.service.graph;
 
-import com.pwc.routefinder.service.countries.CountryService;
+import com.aantkowiak.routefinder.service.countries.CountryService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

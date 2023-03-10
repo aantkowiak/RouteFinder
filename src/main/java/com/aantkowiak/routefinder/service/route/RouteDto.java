@@ -1,4 +1,4 @@
-package com.pwc.routefinder.service.route;
+package com.aantkowiak.routefinder.service.route;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

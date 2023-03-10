@@ -1,7 +1,7 @@
-package com.pwc.routefinder.service.route;
+package com.aantkowiak.routefinder.service.route;
 
-import com.pwc.routefinder.service.graph.GraphService;
-import com.pwc.routefinder.service.graph.Node;
+import com.aantkowiak.routefinder.service.graph.GraphService;
+import com.aantkowiak.routefinder.service.graph.Node;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

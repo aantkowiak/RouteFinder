@@ -1,6 +1,6 @@
-package com.pwc.routefinder.controller;
+package com.aantkowiak.routefinder.controller;
 
-import com.pwc.routefinder.RouteFinderApplication;
+import com.aantkowiak.routefinder.RouteFinderApplication;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;

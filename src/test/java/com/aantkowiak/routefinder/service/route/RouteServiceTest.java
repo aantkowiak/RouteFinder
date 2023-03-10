@@ -1,7 +1,7 @@
-package com.pwc.routefinder.service.route;
+package com.aantkowiak.routefinder.service.route;
 
-import com.pwc.routefinder.service.graph.GraphService;
-import com.pwc.routefinder.service.graph.Node;
+import com.aantkowiak.routefinder.service.graph.GraphService;
+import com.aantkowiak.routefinder.service.graph.Node;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -21,7 +21,8 @@ import static org.mockito.Mockito.when;
 @ExtendWith(MockitoExtension.class)
 final class RouteServiceTest {
 
-  @Mock GraphService graphService;
+  @Mock
+  GraphService graphService;
 
   RouteService routeService;
 

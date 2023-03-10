@@ -1,4 +1,4 @@
-package com.pwc.routefinder.service.graph;
+package com.aantkowiak.routefinder.service.graph;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

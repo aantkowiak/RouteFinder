@@ -1,4 +1,4 @@
-package com.pwc.routefinder.service.graph;
+package com.aantkowiak.routefinder.service.graph;
 
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
